@@ -5,4 +5,4 @@ Required Python packages :
 Biopython
 Pandas
 
-Usage: python python_script.py input.fasta output.fasta
+Usage: python Scffold_filtration.py input.fasta output.fasta
