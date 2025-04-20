@@ -3,7 +3,7 @@ from Bio import SeqIO
 
 # Check for correct number of command-line arguments
 if len(sys.argv) != 3:
-    print("Usage: python python_script.py input.fasta output.fasta")
+    print("Usage: python Sequence_filtration.py input.fasta output.fasta")
     sys.exit(1)
 
 input_file = sys.argv[1]
